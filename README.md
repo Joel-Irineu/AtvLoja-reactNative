@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="AppLoja" title="AppLoja" src="https://user-images.githubusercontent.com/33061906/77702734-f3d83880-6f97-11ea-8024-51af6da04dbd.png" width="250px" />
+    <img alt="AppLoja" title="AppLoja" src="https://user-images.githubusercontent.com/33061906/78624461-0b4cd680-7860-11ea-8f96-bab60881c31c.png" width="250px" />
 </h1>
 
 <h4 align="center">
